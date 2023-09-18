@@ -14,3 +14,5 @@ T
 $src/seminars/first/Shop/Product.java,3\8\38df5f9248860f7edee191d472f0817f0a93eead
 a
 1src/seminars/first/Calculator/CalculatorTest.java,6\3\634d05fdbfc317d04e5ac852c9b5ca81966827ae
+Q
+!src/main/java/homework2/Main.java,b\a\ba327c6809b082cc9e7fdf81b8dc0af216e703cd
