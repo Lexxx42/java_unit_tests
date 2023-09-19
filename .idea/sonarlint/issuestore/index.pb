@@ -16,3 +16,11 @@ a
 1src/seminars/first/Calculator/CalculatorTest.java,6\3\634d05fdbfc317d04e5ac852c9b5ca81966827ae
 Q
 !src/main/java/homework2/Main.java,b\a\ba327c6809b082cc9e7fdf81b8dc0af216e703cd
+]
+-src/seminars/first/Calculator/Calculator.java,6\d\6d137d60b31195460d6a1b44d4feb69afc1f77f2
+W
+'src/main/java/homework1/Calculator.java,f\5\f50ce635bf0de02b4c31e008239259ac3e22667b
+w
+G.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302,e\d\ed67eb178d523a4b3f117dcbe0eda5196367ceec
+w
+G.idea/sonarlint/issuestore/7/1/7185e5b0081320a6b3eeab715afce085bd055413,9\9\998df360bd7416009d5826501f1ad014394bdc10
